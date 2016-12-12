@@ -1,0 +1,47 @@
+[{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "3eoDK1ZdIIcmbn6YSH1PZm",
+      "count_change": 1,
+      "count": 1,
+      "timestamp": "2016-12-05T16:55:27.430000",
+      "doorway_id": "6yxsMIp6P7DATizZIhDjRj",
+      "doorway_name": "Back Door"
+    },
+    {
+      "id": "2Te0HUkdofdf9t4P0MOv4T",
+      "count_change": 1,
+      "count": 2,
+      "timestamp": "2016-12-05T16:55:34.721000",
+      "doorway_id": "6yxsMIp6P7DATizZIhDjRj",
+      "doorway_name": "Back Door"
+    },
+    {
+      "id": "3RufAIPvOosub20wr5wUNP",
+      "count_change": -1,
+      "count": 1,
+      "timestamp": "2016-12-05T16:55:38.985000",
+      "doorway_id": "6yxsMIp6P7DATizZIhDjRj",
+      "doorway_name": "Back Door"
+    },
+    {
+      "id": "vAWVTYHvFtv03sJVtth2F",
+      "count_change": 1,
+      "count": 2,
+      "timestamp": "2016-12-06T23:24:10.079000",
+      "doorway_id": "4T27BABmCZjVwmOUlHXxou",
+      "doorway_name": "Front Door"
+    },
+    {
+      "id": "7wD3EPTw9vFeQ7GHJBpgQ6",
+      "count_change": 1,
+      "count": 3,
+      "timestamp": "2016-12-06T23:24:13.173000",
+      "doorway_id": "4T27BABmCZjVwmOUlHXxou",
+      "doorway_name": "Front Door"
+    }
+  ]
+}]
